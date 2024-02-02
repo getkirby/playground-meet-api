@@ -1,0 +1,29 @@
+Name: Karl Klammer
+
+----
+
+Business: Brötchen Inc
+
+----
+
+Place: Rio de Janeiro
+
+----
+
+Country: Brazil
+
+----
+
+Interests: 
+
+----
+
+Type: 
+
+----
+
+Latitude: -22.911014
+
+----
+
+Longitude: -43.209373
