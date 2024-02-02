@@ -1,0 +1,33 @@
+Name: Nico Hoffmann
+
+----
+
+Business: Kirby CMS
+
+----
+
+Partner: Core developer
+
+----
+
+Place: Berlin
+
+----
+
+Country: Germany
+
+----
+
+Interests: Meetups,Collaboration
+
+----
+
+Type: Core
+
+----
+
+Latitude: 53.07582
+
+----
+
+Longitude: 8.807165
