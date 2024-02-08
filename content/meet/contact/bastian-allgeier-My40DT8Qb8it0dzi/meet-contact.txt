@@ -1,0 +1,49 @@
+Uuid: My40DT8Qb8it0dzi
+
+----
+
+Name: Bastian Allgeier
+
+----
+
+Place: Mannheim
+
+----
+
+Country: Germany
+
+----
+
+Latitude: 49.489291
+
+----
+
+Longitude: 8.46731
+
+----
+
+Business: 
+
+----
+
+Forum: 
+
+----
+
+Github: 
+
+----
+
+Discord: bastianallgeier
+
+----
+
+Instagram: 
+
+----
+
+Mastodon: 
+
+----
+
+Linkedin: 
