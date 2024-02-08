@@ -1,0 +1,49 @@
+Uuid: 9yTOkKj9pj30ToqZ
+
+----
+
+Name: Bastian Allgeier
+
+----
+
+Place: Mannheim
+
+----
+
+Country: Germany
+
+----
+
+Latitude: 49.489291
+
+----
+
+Longitude: 8.46731
+
+----
+
+Business: Content Folder GmbH & Co. KG
+
+----
+
+Forum: bastianallgeier
+
+----
+
+Github: bastianallgeier
+
+----
+
+Discord: bastianallgeier
+
+----
+
+Instagram: bastianallgeier
+
+----
+
+Mastodon: @bastianallgeier@mastodon.social
+
+----
+
+Linkedin: bastianallgeier
