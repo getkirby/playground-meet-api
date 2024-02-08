@@ -1,0 +1,49 @@
+Uuid: 0HNIWzad5YvaHYpu
+
+----
+
+Name: Test Tester
+
+----
+
+Place: Freetown
+
+----
+
+Country: Sierra Leone
+
+----
+
+Latitude: 8.470207
+
+----
+
+Longitude: -13.272474
+
+----
+
+Business: 
+
+----
+
+Forum: 
+
+----
+
+Github: 
+
+----
+
+Discord: 
+
+----
+
+Instagram: 
+
+----
+
+Mastodon: 
+
+----
+
+Linkedin: 
