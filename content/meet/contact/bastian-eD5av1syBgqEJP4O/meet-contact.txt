@@ -1,0 +1,25 @@
+Uuid: eD5av1syBgqEJP4O
+
+----
+
+Name: Bastian
+
+----
+
+Place: Mannheim
+
+----
+
+Country: Germany
+
+----
+
+Latitude: 49.489291
+
+----
+
+Longitude: 8.46731
+
+----
+
+Github: foo
