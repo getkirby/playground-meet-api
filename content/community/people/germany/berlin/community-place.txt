@@ -1,0 +1,9 @@
+Title: Berlin
+
+----
+
+Latitude: 52.5170365
+
+----
+
+Longitude: 13.3888599
